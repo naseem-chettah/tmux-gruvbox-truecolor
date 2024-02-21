@@ -26,7 +26,7 @@ source-file ~/tmux-colorscheme.conf
 ### Tmux Plugin Manager
 Add this repo to the list of [TPM](https://github.com/tmux-plugins/tpm) plugins in your `.tmux.conf`:
 ```tmux
-set -g @plugin 'lawabidingcactus/tmux-gruvbox-truecolor'
+set -g @plugin 'https://gitlab.com/seth0xd/tmux-gruvbox-truecolor.git'
 ```
 Press `<prefix> + I` to reload tmux with the plugin.
 
