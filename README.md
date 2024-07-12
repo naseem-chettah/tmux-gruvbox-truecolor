@@ -2,9 +2,9 @@
 
 Retro groove colorscheme for [tmux](https://github.com/tmux/tmux), based on the excellent [gruvbox](https://github.com/morhetz/gruvbox) theme for vim.
 
-<img src="https://i.imgur.com/6IQCia6.png" style="width: 100%; max-width: 600px; text-align: center;"/>
+![screenshot](screenshot.png)
 
-This is a heavily modified fork of [tmux-gruvbox](https://github.com/egel/tmux-gruvbox).
+This is a modified fork of [tmux-gruvbox-truecolor](https://github.com/LawAbidingCactus/tmux-gruvbox-truecolor).
 
 Features/Differences:
 - Uses gruvbox's hexadecimal colors (most terminal emulators have truecolor support)
