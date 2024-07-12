@@ -6,13 +6,6 @@ Retro groove colorscheme for [tmux](https://github.com/tmux/tmux), based on the 
 
 This is a modified fork of [tmux-gruvbox-truecolor](https://github.com/LawAbidingCactus/tmux-gruvbox-truecolor).
 
-Features/Differences:
-- Uses gruvbox's hexadecimal colors (most terminal emulators have truecolor support)
-- Indicates when the prefix key has been pressed
-- If vi-mode is enabled (if `$EDITOR` contains `vi`), the statusbar will indicate its mode while being edited
-- Highlights unfocused windows with activity or terminal bells
-- Does not use custom glyphs
-
 ## Installation
 ### Manual
 Just clone this repo and add `tmux-colorscheme.conf` to your `.tmux.conf`:
